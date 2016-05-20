@@ -70,7 +70,7 @@
 
 .grid figure h2 {
 	word-spacing: -0.15em;
-	font-weight: 700;
+	font-weight: 400;
 }
 
 .grid figure h2 span {
@@ -1025,7 +1025,7 @@ figure.effect-jazz p {
 #active h2,
 figure.effect-jazz h2 {
 	color: #fff;
-	font-weight: 900;
+	font-weight: 300;
 	padding-top: 26%;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;

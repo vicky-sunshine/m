@@ -218,6 +218,7 @@ ul#nav li.current a { color: #F06000; }
 #about p {
    line-height: 30px;
    color: #7A7A7A;
+   font-size: 16px;
 }
 #about .profile-pic {
    position: relative;
@@ -433,13 +434,12 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 60px;
 }
-#activity h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
-   text-transform: uppercase;
+#activity h2 {
+   font: 26px/24px 'opensans-semibold', sans-serif;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #FFFFFF;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
